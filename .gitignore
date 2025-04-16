@@ -1,3 +1,4 @@
+.utmp/
 Library/*
 !Library/com.unity.addressables/
 [Tt]emp/
